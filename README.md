@@ -1,6 +1,6 @@
 # Casys PML
 
-[![CI](https://github.com/casys-ai/casys-pml/workflows/CI/badge.svg)](https://github.com/casys-ai/casys-pml/actions)
+[![CI](https://github.com/superWorldSavior/casys-pml/workflows/CI/badge.svg)](https://github.com/superWorldSavior/casys-pml/actions)
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Deno Version](https://img.shields.io/badge/deno-2.x-blue.svg)](https://deno.land)
 
@@ -30,7 +30,7 @@ Context usage drops to <5%. Independent tasks run in parallel.
 ## Quick Start
 
 ```bash
-git clone https://github.com/casys-ai/casys-pml.git
+git clone https://github.com/superWorldSavior/casys-pml.git
 cd casys-pml
 deno task dev         # API on :3003
 deno task dev:fresh   # Dashboard on :8081
@@ -132,7 +132,7 @@ deno task lint && deno task fmt  # Code quality
 
 ---
 
-[Report Bug](https://github.com/casys-ai/casys-pml/issues) |
-[Request Feature](https://github.com/casys-ai/casys-pml/issues) |
+[Report Bug](https://github.com/superWorldSavior/casys-pml/issues) |
+[Request Feature](https://github.com/superWorldSavior/casys-pml/issues) |
 [Discord](https://discord.gg/fuPg8drR) |
 [Documentation](docs/)
